@@ -11,6 +11,8 @@ body{
     "footer";
 }
 
+
+
 header{
     grid-area: header;
 }
@@ -27,6 +29,11 @@ footer{
     RGB(28, 8, 20) 0%,
     rgb(19, 5, 13) 100%
   );
+}
+
+a{
+  text-decoration: none;
+  color: inherit; 
 }
 
 
